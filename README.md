@@ -22,7 +22,7 @@ It has been achieved by using ColumnHeaderTemplate support. We can add the desir
             <syncfusion:KanbanColumn Categories="Review,Done" Title="Done" />
          </syncfusion:SfKanban>
 ```
-**ColumnHeaderTemplate of Kanban keeps [ColumnTag](https://help.syncfusion.com/wpf/kanban-board/column#column-tags) as DataContext.
+**ColumnHeaderTemplate of Kanban keeps [ColumnTag](https://help.syncfusion.com/wpf/kanban-board/column#column-tags) as DataContext.**
 
 
 # See also
