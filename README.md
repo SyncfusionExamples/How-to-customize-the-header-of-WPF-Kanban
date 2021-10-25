@@ -24,6 +24,7 @@ It has been achieved by using ColumnHeaderTemplate support. We can add the desir
 ```
 **ColumnHeaderTemplate of Kanban keeps [ColumnTag](https://help.syncfusion.com/wpf/kanban-board/column#column-tags) as DataContext.**
 
+KB article - [How-to-customize-the-header-of-WPF-Kanban](https://www.syncfusion.com/kb/12297/how-to-customize-the-header-of-wpf-kanban-board)
 
 # See also
 
